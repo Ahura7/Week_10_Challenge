@@ -1,4 +1,4 @@
-# Wk_10_Challange
+# Wk_10_Challenge
 USYD FinTech Week 10 Challenge
 *Coded in Jupyter Lab --> Jupyter Notebook using Python Scripts*
 
